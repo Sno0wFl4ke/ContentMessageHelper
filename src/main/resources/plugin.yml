@@ -1,0 +1,11 @@
+name: ContentMessageHelper
+version: 1.0
+api-version: 1.16
+main: eu.beeadev.contentmessagehelper.ContentMessageHelper
+author: BeeADev
+
+commands:
+  empty:
+    description: Create an empty message
+  chatclear:
+    description: Clear some chat messages
