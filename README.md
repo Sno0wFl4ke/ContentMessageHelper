@@ -3,7 +3,7 @@
 I hope you'll be able to find a good use for my plugin. It's nothing special, yet it's pretty useful!
 
 ## Available Commands
-<b>/chatclear</b> - Clear a few lines from your chat
+<b>/chatclear</b> - Clear a few lines from your chat <br>
 <b>/empty <Message></b> - Create an empty message with your own input (with ColorCode Support)
 
 ## Permissions
