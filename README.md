@@ -1,5 +1,6 @@
 # ContentMessageHelper
 <i>ContentMessageHelper is a Minecraft plugin to help create clear messages for Content staff</i>
+I hope you'll be able to find a good use for my plugin. It's nothing special, yet it's pretty useful!
 
 ## Available Commands
 <b>/chatclear</b> - Clear a few lines from your chat
@@ -7,5 +8,3 @@
 
 ## Permissions
 contentmessagehelper.use
-
-I hope you'll be able to find a good use for my plugin. Its nothing special, yet it's pretty useful!
